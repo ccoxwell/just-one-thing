@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Just One Thing"
+theme = "ink"
