@@ -7,3 +7,6 @@
 [submodule "themes/ink"]
 	path = themes/ink
 	url = https://github.com/knadh/hugo-ink.git
+[submodule "public"]
+	path = public
+	url = https://98bbaaf5-15e1-408d-a104-98ad8e6d5cba@api.glitch.com/git/just-one-thing
